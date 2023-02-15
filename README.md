@@ -17,3 +17,4 @@ WHERE title ILIKE '%t%t%t%t%'
 4. SELECT * FROM film
 WHERE title LIKE 'C%' and length > 90 and rental_rate = 2.99
 ```
+https://app.patika.dev/berkantkaplan
